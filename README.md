@@ -2,8 +2,8 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
--  Thanks to Unknown meme-api provider.
-- Url = https://meme-api.com/gimme
+-  Thanks to [D3vd!](https://github.com/D3vd/) for Meme_Api
+- Github Url = https://github.com/D3vd/Meme_Api
 
 - I am not good at designing webpage .
 
@@ -15,11 +15,11 @@
 
 This is a simple meme website which is develop using Python (Flask).
 
-This website show a meme after every 30 seconds from a Unknown api provider and show the subreddit from which that meme is fetched.
+This website show a meme after every 30 seconds and show the subreddit from which that meme is fetched.
 
-- Api  Url = https://meme-api.com/gimme
+- Api Provider Url = https://github.com/D3vd/Meme_Api
 
-Thanks to that Unknown Api Provider.
+Thanks to D3vd!
 
 ---
 ## Setup & Installation

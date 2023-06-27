@@ -26,7 +26,7 @@ Make sure you have the latest version of Python installed.
 git clone <repo-url>
 ```
 
-```bash
+```shell
 pip install -r requirements.txt
 ```
 
@@ -36,10 +36,9 @@ pip install -r requirements.txt
 
 Windows, Mac & Linux:
 
-```
+```shell
 python main.py
 ```
-
 ---
 
 ## Viewing The Website
@@ -47,3 +46,17 @@ python main.py
 Go to `http://127.0.0.1:80`
 
 ---
+
+---
+  
+  OR
+
+## Docker Image
+- Go to meme_website directory and then open terminal in that directory
+```shell
+cd meme_website
+docker build .
+```
+- then run `docker build . -t meme_website` this will build meme_website docker image
+---
+

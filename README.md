@@ -46,17 +46,16 @@ python main.py
 Go to `http://127.0.0.1:80`
 
 ---
-
----
   
   OR
 
 ## Docker Image
 - Go to meme_website directory and then open terminal in that directory
+- then run `docker build . -t meme_website` this will build meme_website docker image
+
 ```shell
 cd meme_website
 docker build .
 ```
-- then run `docker build . -t meme_website` this will build meme_website docker image
 ---
 

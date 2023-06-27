@@ -55,7 +55,7 @@ Go to `http://127.0.0.1:80`
 
 ```shell
 cd meme_website
-docker build .
+docker build . -t meme_website
 ```
 ---
 
